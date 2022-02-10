@@ -6,21 +6,21 @@ import { faEnvelope } from '@fortawesome/free-regular-svg-icons/faEnvelope';
 // to add other icons.
 
 const data = [
-  {
-    link: 'https://github.com/devinbits',
-    label: 'Github',
-    icon: faGithub,
-  },
-  {
-    link: 'https://www.facebook.com/profile.php?id=100008390618863',
-    label: 'Facebook',
-    icon: faFacebookF,
-  },
-  {
-    link: 'https://www.instagram.com/behind_d_lenz_/',
-    label: 'Instagram',
-    icon: faInstagram,
-  },
+  // {
+  //   link: 'https://github.com/devinbits',
+  //   label: 'Github',
+  //   icon: faGithub,
+  // },
+  // {
+  //   link: 'https://www.facebook.com/profile.php?id=100008390618863',
+  //   label: 'Facebook',
+  //   icon: faFacebookF,
+  // },
+  // {
+  //   link: 'https://www.instagram.com/behind_d_lenz_/',
+  //   label: 'Instagram',
+  //   icon: faInstagram,
+  // },
   {
     link: 'mailto:satyamchandra09@gmail.com',
     label: 'Email',

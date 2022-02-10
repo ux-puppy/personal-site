@@ -12,7 +12,7 @@ const SideBar = () => (
         <img src={`${PUBLIC_URL}/images/me.png`} alt="" />
       </Link>
       <header>
-        <h2>Abhinav Chandra</h2>
+        <h2>Satyam Chandra</h2>
         <p>
           <a href="mailto:adityanabhinav@gmail.com">adityanabhinav@gmail.com</a>
         </p>
@@ -22,7 +22,7 @@ const SideBar = () => (
     <section className="blurb">
       <h2>About</h2>
       <p>
-        Hi, I&apos;m Abhinav. I am a Software Engineer by profession.
+        Hi, I&apos;m Satyam. I am a Software Engineer by profession.
         I like building things, working and implementing with new technologies.
       </p>
       <ul className="actions">
@@ -42,7 +42,7 @@ const SideBar = () => (
 
     <section id="footer">
       <ContactIcons />
-      {/* <p className="copyright">&copy; Abhinav Chandra</p> */}
+      {/* <p className="copyright">&copy; Satyam Chandra</p> */}
     </section>
   </section>
 );
